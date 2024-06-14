@@ -19,29 +19,29 @@ PUT `/products/:id` e DELETE `/products/ :id`.
 
 **Recursos Implementados:**
 
-## Tela Pública (Página Inicial)
+### Tela Pública (Página Inicial)
 
 - Temos uma página inicial que é acessível publicamente.
 - É onde temos uma introdução sobre a aplicação e nossa 'empresa'.
 - possui um botão de login que nos direciona para a página de login.
 
-## Página de Login
+### Página de Login
 
 - Nossa página de login serve para autenticar usuários previamente cadastrados no backend.
 - para logins mal-sucessedidos uma mensagem de erro é exibida.
 
-## Página Autenticada (Produtos)
+### Página Autenticada (Produtos)
 
 - Após o login, nosso usuário é redirecionado para uma página autenticada que exibe os produtos cadastrados no backend.
 - A página deve lista coisas como nome, preço e a categoria que aquele produto pertece.
 - Nessa página temos um botão que serve como filtro, se o usuário quiser pesquisar os produtos pela determinada categoria, ele te redireciona para a página de categorias e nela o usuário escolhe a que preferir.
 
-## Página Categoria
+### Página Categoria
 
 - Nessa página o usuário escolhe a categoria de produtos que quer e visualiza os produtos de uma maneira mais fácil.
 - Clicando na categoria desejada, o usuário é levado para uma página que contém somente os produtos daquela determinada categoria.
 
-### Para iniciar:
+## Para iniciar:
 - A pasta baixada provavelmente sera pastabaixada/Testeinterface/Interface
 - faça um **cd** para a pasta **dositio** que está localizada dentro de interface
 - No terminal faça **npm install** para instalar todas as dependências utilizadas no projeto na parte de backend
