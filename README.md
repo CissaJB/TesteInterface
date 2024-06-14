@@ -15,9 +15,9 @@ atualmente apresenta um CRUD de produto e uma rota de autenticação (`/auth`). 
 ponto, juntos, implementamos as rotas: GET `/products` e `/products/:id`, POST `/products`,
 PUT `/products/:id` e DELETE `/products/ :id`. 
 
-**Agora para esse novo projeto fizemos a interface para realmente podermos visualizar esses produtos.**
+## **Agora para esse novo projeto fizemos a interface para realmente podermos visualizar esses produtos.**
 
-**Recursos Implementados:**
+### **Recursos Implementados:**
 
 ### Tela Pública (Página Inicial)
 
