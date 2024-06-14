@@ -1,0 +1,13 @@
+{
+  "name": "interface",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "backend": "npm start --prefix Inteface/dositio",
+    "frontend": "npm run dev --prefix Inteface/my-app",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\""
+},
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
