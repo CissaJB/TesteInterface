@@ -7,6 +7,7 @@ export default function Page() {
   const [error, setError] = useState(null);
   const router = useRouter();
 
+  //Função para buscar dados no servidor
   async function fetchData() {
     try {
       const response = await fetch('http://localhost:5000/categories');
@@ -26,6 +27,7 @@ export default function Page() {
     fetchData();
   }, []);
 
+  //Quando clicar no botão vamos para a página de produtos por categoria
   const handleCategoryClick = (id) => {
     router.push(`/categories/${id}/products`);
   };
