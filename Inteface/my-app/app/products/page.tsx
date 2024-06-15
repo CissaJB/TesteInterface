@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 
@@ -7,16 +7,17 @@ export default function ProductPage() {
   const [error, setError] = useState(null);
   const router = useRouter();
 
+  //Função para buscar os dados no servidor
   async function fetchData() {
     try {
-      const response = await fetch('http://localhost:5000/products');
+      const response = await fetch('http://localhost:5000/products'); //Servidor do Dositio
       if (!response.ok) {
         throw new Error('Network response was not ok');
       }
       const data = await response.json();
       setProducts(data);
     } catch (error) {
-      console.error('Erro ao buscar dados do servidor:', error);
+      console.error('Erro ao buscar dados do servidor :(', error);
       setError(error.message);
     }
   }
@@ -25,16 +26,18 @@ export default function ProductPage() {
     fetchData();
   }, []);
 
+  //Quando clicar no botão vai para a página de categorias
   const handleCategorySearch = () => {
     router.push('/categories');
   };
 
+  //Se a página não carregar uma mensagem de erro é exibida, senão a pág aparece com produtos, preços e um botão
   return (
-    <main className="p-4">
+    <main className="p-4"> 
       {error ? (
         <p className="text-red-500">Erro ao buscar dados do servidor: {error}</p>
       ) : (
-        <div>
+        <div> 
           <div className="flex justify-between items-center mb-8">
             <h1 className="text-3xl font-bold text-center">Produtos</h1>
             <button 
@@ -56,7 +59,10 @@ export default function ProductPage() {
                   className="w-full h-48 object-cover mb-4 rounded" 
                   onError={(e) => e.target.style.display = 'none'} 
                 />
-                <p className="text-lg font-semibold">{product.name}</p>
+                <div className="flex justify-between items-center">
+                  <p className="text-lg font-semibold">{product.name}</p>
+                  <p className="text-lg font-semibold text-green-600">{product.Preço}</p>
+                </div>
               </li>
             ))}
           </ul>
