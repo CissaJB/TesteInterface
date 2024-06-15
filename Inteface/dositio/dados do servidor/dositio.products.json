@@ -6,7 +6,9 @@
   "qtd": 20,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://www.infoescola.com/wp-content/uploads/2011/01/tomate_345187874.jpg",
+  "Preço": "R$ 5,00"
 },
 {
   "_id": {
@@ -16,17 +18,21 @@
   "qtd": 15,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://www.bobtailfruit.co.uk/media/mageplaza/blog/post/4/2/42e9as7nataai4a6jcufwg.jpeg",
+  "Preço": "R$ 3,00"
 },
 {
   "_id": {
     "$oid": "661b173832e4efa9e54e5773"
   },
-  "name": "Maça",
-  "qtd": 20,
+  "name": "Cereja",
+  "qtd": 5,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://www.infoescola.com/wp-content/uploads/2009/12/cereja1-450x299.jpg",
+  "Preço": "R$ 10,00"
 },
 {
   "_id": {
@@ -36,7 +42,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://www2.itanhaem.sp.gov.br/wp-content/uploads/2016/12/uva.jpg",
+  "Preço": "R$ 8,00"
 },
 {
   "_id": {
@@ -46,7 +54,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://mundoemrevista.com.br/wp-content/uploads/2024/02/abacate.webp",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -56,7 +66,9 @@
   "qtd": 15,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://www.naturaldositioentrega.com.br/wp-content/uploads/2020/07/Morango-1.jpeg",
+  "Preço": "R$ 10,00"
 },
 {
   "_id": {
@@ -66,17 +78,9 @@
   "qtd": 20,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
-},
-{
-  "_id": {
-    "$oid": "661b179c32e4efa9e54e5778"
   },
-  "name": "Limão",
-  "qtd": 20,
-  "categorieId": {
-    "$oid": "661b156d32e4efa9e54e5770"
-  }
+  "imageUrl": "https://static.wixstatic.com/media/d40923_64569dd49a3a45c5b075dfe21d291463~mv2.jpg/v1/crop/x_2,y_46,w_1000,h_658/fill/w_400,h_260,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/d40923_64569dd49a3a45c5b075dfe21d291463~mv2.jpg",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -86,7 +90,9 @@
   "qtd": 5,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://viveiroportoamazonas.com.br/upload/noticias/1593607262pessego-isolado-no-fundo-branco_88281-1751.jpg",
+  "Preço": "R$ 10,00"
 },
 {
   "_id": {
@@ -96,7 +102,9 @@
   "qtd": 5,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://superpao.vtexassets.com/unsafe/fit-in/568x568/center/middle/https%3A%2F%2Fsuperpao.vtexassets.com%2Farquivos%2Fids%2F432608%2FMamao-Papaia-Kg.jpg%3Fv%3D638481844711670000",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -106,7 +114,9 @@
   "qtd": 7,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://global.cdn.magazord.com.br/vasoeflor/img/2022/07/produto/1082/muda-acerola-90cm.jpg?ims=fit-in/800x800/filters:fill(white)",
+  "Preço": "R$ 7,00"
 },
 {
   "_id": {
@@ -116,7 +126,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://dcdn.mitiendanube.com/stores/002/296/660/products/goiaba11-2e0fc1dbca26ab1db916606800782814-1024-1024.jpg",
+  "Preço": "R$ 5,00"
 },
 {
   "_id": {
@@ -126,7 +138,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b8edfa12714e508f756f481/1538589587365-OPKZUUBF0DGW4QJIRRBL/abacaxi-havai%CC%81.jpg?format=500w",
+  "Preço": "R$ 7,00"
 },
 {
   "_id": {
@@ -136,7 +150,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://apexbrasil.com.br/content/dam/apexbrasil/bancoimagens/Not%C3%ADcias/2023/Maracuj%C3%A1.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+  "Preço": "R$ 9,00"
 },
 {
   "_id": {
@@ -146,7 +162,9 @@
   "qtd": 8,
   "categorieId": {
     "$oid": "661b156d32e4efa9e54e5770"
-  }
+  },
+  "imageUrl": "https://paulista.pe.gov.br/site/app/webroot/files/arquivos/150520191428050000000.jpg",
+  "Preço": "R$ 7,00"
 },
 {
   "_id": {
@@ -156,7 +174,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b12fd32e4efa9e54e576f"
-  }
+  },
+  "imageUrl": "https://images.tcdn.com.br/img/img_prod/763396/coentro_157_1_20200320124409.jpg",
+  "Preço": "R$ 2,00"
 },
 {
   "_id": {
@@ -166,7 +186,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b12fd32e4efa9e54e576f"
-  }
+  },
+  "imageUrl": "https://www.quitandatomio.com.br/upload/1284382069-13-beneficios-da-cebolinha-para-que-serve-e-propriedades.jpg",
+  "Preço": "R$ 2,00"
 },
 {
   "_id": {
@@ -176,7 +198,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b12fd32e4efa9e54e576f"
-  }
+  },
+  "imageUrl": "https://images.tcdn.com.br/img/img_prod/763396/salsinha_173_1_20200320140628.jpg",
+  "Preço": "R$ 2,00"
 },
 {
   "_id": {
@@ -186,7 +210,9 @@
   "qtd": 7,
   "categorieId": {
     "$oid": "661b12fd32e4efa9e54e576f"
-  }
+  },
+  "imageUrl": "https://scfoods.fbitsstatic.net/img/p/pimenta-malagueta-50g-70556/257051.jpg?w=800&h=800&v=no-change&qs=ignore",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -196,7 +222,9 @@
   "qtd": 7,
   "categorieId": {
     "$oid": "661b12fd32e4efa9e54e576f"
-  }
+  },
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b8edfa12714e508f756f481/1538675608252-UKVWE3MGFGDK4M2RPHBB/manjerica%CC%83o.jpg?format=500w",
+  "Preço": "R$ 2,00"
 },
 {
   "_id": {
@@ -206,7 +234,9 @@
   "qtd": 5,
   "categorieId": {
     "$oid": "661b12fd32e4efa9e54e576f"
-  }
+  },
+  "imageUrl": "https://emporiointegrale.com.br/wp-content/uploads/2018/08/16-Colorau-Paraiba-1-600x600.jpg",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -216,7 +246,9 @@
   "qtd": 5,
   "categorieId": {
     "$oid": "661b12fd32e4efa9e54e576f"
-  }
+  },
+  "imageUrl": "https://images.tcdn.com.br/img/img_prod/760835/acafrao_em_po_curcuma_3_1_20200318215035.jpg",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -226,7 +258,9 @@
   "qtd": 15,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://www.hortifrutiorganico.com.br/36-large_default/cebola-organica-500g.jpg",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -236,7 +270,9 @@
   "qtd": 15,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://conteudo.imguol.com.br/blogs/218/files/2019/02/iStock-517895450.jpg",
+  "Preço": "R$ 3,00"
 },
 {
   "_id": {
@@ -246,7 +282,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://www.quitandatomio.com.br/upload/408933518-7-beneficios-da-cenoura-para-saude.jpg",
+  "Preço": "R$ 3,00"
 },
 {
   "_id": {
@@ -256,7 +294,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://scfoods.fbitsstatic.net/img/p/batata-lavada-500g-70629/257131.jpg?w=800&h=800&v=no-change&qs=ignore",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -266,7 +306,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://www.infoescola.com/wp-content/uploads/2010/08/piment%C3%A3o_270503105.jpg",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -276,7 +318,9 @@
   "qtd": 10,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://www.sitiodamata.com.br/media/webp_image/catalog/product/cache/80281f1a4d89199560fc0837e49d13da/a/l/alface-lisa-organica-lactuca-sativa_2nd.webp",
+  "Preço": "R$ 3,00"
 },
 {
   "_id": {
@@ -286,7 +330,9 @@
   "qtd": 5,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://www.galaxcommerce.com.br/sistema/upload/1994/produtos/brocolis-ninja_2020-04-14_17-02-21_0.jpg",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -296,7 +342,9 @@
   "qtd": 5,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://blog.plantei.com.br/wp-content/uploads/2017/01/couve-flor-1.jpg",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -306,7 +354,9 @@
   "qtd": 7,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://i0.wp.com/comidadebebe.pt/wp-content/uploads/2022/07/Blog-5-4.jpg?resize=1080%2C675&ssl=1",
+  "Preço": "R$ 5,00"
 },
 {
   "_id": {
@@ -316,7 +366,9 @@
   "qtd": 7,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://files.agro20.com.br/uploads/2019/07/pepino-3-1024x576.jpg",
+  "Preço": "R$ 5,00"
 },
 {
   "_id": {
@@ -326,7 +378,9 @@
   "qtd": 4,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/cenourao/media/uploads/produtos/foto/f23fb7198525file.png",
+  "Preço": "R$ 4,00"
 },
 {
   "_id": {
@@ -336,5 +390,19 @@
   "qtd": 5,
   "categorieId": {
     "$oid": "661b11f732e4efa9e54e576e"
-  }
+  },
+  "imageUrl": "https://hiperideal.vtexassets.com/arquivos/ids/167608-800-auto?v=636615815976730000&width=800&height=auto&aspect=true",
+  "Preço": "R$ 5,00"
+},
+{
+  "_id": {
+    "$oid": "6626fea3d2e079e2ffc97b2e"
+  },
+  "name": "Jabuticaba",
+  "qtd": 5,
+  "categorieId": {
+    "$oid": "661b156d32e4efa9e54e5770"
+  },
+  "imageUrl": "https://ceagesp.gov.br/wp-content/uploads/2020/05/jabuticabaidhortipedia.jpeg",
+  "Preço": "R$ 5,00"
 }]
