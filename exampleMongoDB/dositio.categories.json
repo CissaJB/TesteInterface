@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "661b11f732e4efa9e54e576e"
+  },
+  "name": "Verduras e Legumes",
+  "img_URL": "https://static.significados.com.br/foto/verduras-e-legumes-0.jpg"
+},
+{
+  "_id": {
+    "$oid": "661b12fd32e4efa9e54e576f"
+  },
+  "name": "Temperos",
+  "img_URL": "https://static.itdg.com.br/images/auto-auto/df8dd32097ad46877d41517d4721cfab/shutterstock-577601638.jpg"
+},
+{
+  "_id": {
+    "$oid": "661b156d32e4efa9e54e5770"
+  },
+  "name": "Frutas",
+  "img_URL": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/as-frutas-sao-alimentos-importantes-para-nossa-saude-alem-serem-muito-saborosas-5bdaec2def6bb.jpg"
+}]
